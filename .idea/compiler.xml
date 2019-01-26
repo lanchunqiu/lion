@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="lion-api" />
+        <module name="lion-boot" />
+        <module name="lion-cacher" />
+        <module name="lion-client" />
+        <module name="lion-common" />
+        <module name="lion-core" />
+        <module name="lion-monitor" />
+        <module name="lion-network" />
+        <module name="lion-registion" />
+        <module name="lion-tester" />
+        <module name="lion-tools" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>

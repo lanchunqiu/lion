@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lion-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lion-boot" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lion-cacher" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lion-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lion-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lion-core" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lion-monitor" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lion-network" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lion-registion" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lion-tester" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lion-tools" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
